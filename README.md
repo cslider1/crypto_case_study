@@ -16,7 +16,7 @@
 [**Matteo Dante Perruccio**](https://www.linkedin.com/in/matteo-dante-perruccio-43575b11/?originalSubdomain=uk) is a partner at Wave and President of the company’s international division. He was instrumental in the formation and launch of the Fund. Mr. Perruccio has worked in international investment advising, primarily based in Europe, since 1984. 
 <br></br>
 
-###**Fund Background**
+###Fund Background
 
 As a boutique investment firm with deep experience in private banking and real estate, Wave wanted to create a unique fund where blockchain would play a role in adding value to the process. Critical to their search was an asset class that made sense to their investors as well as to the issuer. They considered Japanese racehorses, renewable energy, and real estate prior to settling on whiskey.
 
@@ -50,7 +50,7 @@ Wave’s willingness to establish the Fund and create a first-of-its-kind, bourb
 
 Wave partnered with NEM to launch this Fund on its Symbol platform which is touted as a secure value exchange network for business. This will be the first committed security issuance on Symbol. In the past, Wave has tokenized digital assets on Ethereum. Blogger Nlpek Celik endorses Symbol and explains how the “PoS consensus is privatized with proof of business POV prominence in the NEM blockchain,” marking it as similar to the consensus model POS in her [7/18/2020 article](https://medium.com/@nipekcelik/symbol-a-new-world-brand-from-nem-f5f18700eb5f).
 
-On 9/15/2020, NEM began the opt-in process to migrate NEM NIS1 (it’s original blockchain offering) to the Symbol public chain. The two chains will run parallel for an undisclosed amount of time. All holders of XEM, NEM NIS1’s native currency, will be eligible to receive XYM tokens on [Symbol](https://symbolplatform.com/) when it launches later this year. More technical aspects of the migration are available in [AiTHORITY's] (https://aithority.com/technology/blockchain/nem-group-commences-first-phase-of-migration-process-to-symbol-platform/) news article on the subject. 
+On 9/15/2020, NEM began the opt-in process to migrate NEM NIS1 (it’s original blockchain offering) to the Symbol public chain. The two chains will run parallel for an undisclosed amount of time. All holders of XEM, NEM NIS1’s native currency, will be eligible to receive XYM tokens on [Symbol](https://symbolplatform.com/) when it launches later this year. More technical aspects of the migration are available in [AiTHORITY's](https://aithority.com/technology/blockchain/nem-group-commences-first-phase-of-migration-process-to-symbol-platform/) news article on the subject. 
 <br></br>
 
 
