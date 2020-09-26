@@ -16,7 +16,7 @@
 [**Matteo Dante Perruccio**](https://www.linkedin.com/in/matteo-dante-perruccio-43575b11/?originalSubdomain=uk) is a partner at Wave and President of the company’s international division. He was instrumental in the formation and launch of the Fund. Mr. Perruccio has worked in international investment advising, primarily based in Europe, since 1984. 
 <br></br>
 
-###Fund Background
+### Fund Background
 
 As a boutique investment firm with deep experience in private banking and real estate, Wave wanted to create a unique fund where blockchain would play a role in adding value to the process. Critical to their search was an asset class that made sense to their investors as well as to the issuer. They considered Japanese racehorses, renewable energy, and real estate prior to settling on whiskey.
 
