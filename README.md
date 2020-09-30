@@ -93,3 +93,45 @@ If the Fund can weather the potential liquidity issues when the tokens are relea
 ![alt text](o-WHISKEY-facebook.jpg)
 
 
+Sources:
+
+https://www.wavegp.com/ 
+
+https://wildernesstraildistillery.com/spirits/
+
+https://www.nem.io
+
+https://symbolplatform.com/
+
+https://reports.adviserinfo.sec.gov/reports/ADV/305726/PDF/305726.pdf
+
+https://www.coindesk.com/wave-financial-investement-whiskey
+
+https://www.institutionalassetmanager.co.uk/2020/03/18/284000/wave-financial-group-and-wilderness-trail-distillery-launch-kentucky-whiskey-fund
+
+https://www.forbes.com/sites/benjessel/2020/04/27/why-wave-financials-kentucky-bourbon-blockchain-bonds-may-be-a-sober-investment/#2d28f4435927
+
+https://www.linkedin.com/in/davidsiemer/
+
+https://www.linkedin.com/in/benjamin-tsai-investor/
+
+https://uk.linkedin.com/in/matteo-dante-perruccio/
+
+https://www.linkedin.com/in/matteo-dante-perruccio-43575b11/?originalSubdomain=uk
+
+https://stomarket.com/sto/wilderness-trail-distillery-wkw20
+
+https://coinrivet.com/nem-and-wave-announce-launch-of-kentucky-whiskey-fund/
+
+
+https://aithority.com/technology/blockchain/nem-group-commences-first-phase-of-migration-process-to-symbol-platform/
+
+https://medium.com/@nipekcelik/symbol-a-new-world-brand-from-nem-f5f18700eb5f
+
+https://www.nemventures.io/ecosystem/
+
+https://symbolplatform.com/
+
+https://www.bbvaopenmind.com/en/economy/finance/ten-trends-of-blockchain-in-2020/
+
+
