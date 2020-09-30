@@ -91,9 +91,10 @@ If the Fund can weather the potential liquidity issues when the tokens are relea
 ### **Cautious optimism abounds with the launch of WKW20 !**<br></br>
 
 ![alt text](o-WHISKEY-facebook.jpg)
+<br></br>
 
 
-Sources:
+## Sources
 
 https://www.wavegp.com/ 
 
