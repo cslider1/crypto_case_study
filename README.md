@@ -87,6 +87,7 @@ If Wave is successful in sourcing investors for the initial and subsequent raise
 
 If the Fund can weather the potential liquidity issues when the tokens are released from lock-up, it will represent an important milestone upon which they can build their next venture fund. One consideration would be to revisit their real estate investigations as smart contracts for mortgages become more prevalent.
 <br></br>
+<br></br>
 
 ### **Cautious optimism abounds with the launch of WKW20 !**<br></br>
 
@@ -123,7 +124,6 @@ https://www.linkedin.com/in/matteo-dante-perruccio-43575b11/?originalSubdomain=u
 https://stomarket.com/sto/wilderness-trail-distillery-wkw20
 
 https://coinrivet.com/nem-and-wave-announce-launch-of-kentucky-whiskey-fund/
-
 
 https://aithority.com/technology/blockchain/nem-group-commences-first-phase-of-migration-process-to-symbol-platform/
 
