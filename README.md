@@ -1,6 +1,6 @@
 # Investment Fund Tokenizes Bourbon
 
-![alt text](github images/th-4.png)
+![alt text](th-4.png)
 
 ## Wave Financial partners with Wilderness Trail Distillery to launch a digital asset fund backed by bourbon.
 
