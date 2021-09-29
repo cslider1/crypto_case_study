@@ -57,7 +57,7 @@ On 9/15/2020, NEM began the opt-in process to migrate NEM NIS1 (it’s original 
 
 •	**Social Media** – blockchain providing much-needed security in this domain
 
-In its short life, Wave has already become an experienced blockchain investor by utilizing the Ethereum and new Symbol platforms for new investment funds.NEM appears to be solidifying their product offerings and is taking a bold step with the migration to their newly released Symbol platform. They will need to remain vigilant about their competitors, including [R3](https://www.r3.com/), [Ethereum](https://ethereum.org/en/), and [Hyperledger](https://www.hyperledger.org/) – all who more revenue or more employees than NEM.  <br></br>
+In its short life, Wave has already become an experienced blockchain investor by utilizing the Ethereum and new Symbol platforms for new investment funds.NEM appears to be solidifying their product offerings and is taking a bold step with the migration to their newly released Symbol platform. They will need to remain vigilant about their competitors, including [R3](https://www.r3.com/), [Ethereum](https://ethereum.org/en/), and [Hyperledger](https://www.hyperledger.org/) – all who more revenue or more employees than NEM.  
 
 ### Results
 
