@@ -47,7 +47,7 @@ Wave partnered with NEM to launch this Fund on its Symbol platform which is tout
 
 On 9/15/2020, NEM began the opt-in process to migrate NEM NIS1 (it’s original blockchain offering) to the Symbol public chain. The two chains will run parallel for an undisclosed amount of time. All holders of XEM, NEM NIS1’s native currency, will be eligible to receive XYM tokens on [Symbol](https://symbolplatform.com/) when it launches later this year. More technical aspects of the migration are available in [AiTHORITY's](https://aithority.com/technology/blockchain/nem-group-commences-first-phase-of-migration-process-to-symbol-platform/) news article on the subject. 
 
-## Landscape
+### Landscape
 
  With its roots as a cryptocurrency platform, blockchain technology has expanded into more mainstream business applications. Some emerging trends include:
 
@@ -59,7 +59,7 @@ On 9/15/2020, NEM began the opt-in process to migrate NEM NIS1 (it’s original 
 
 In its short life, Wave has already become an experienced blockchain investor by utilizing the Ethereum and new Symbol platforms for new investment funds.NEM appears to be solidifying their product offerings and is taking a bold step with the migration to their newly released Symbol platform. They will need to remain vigilant about their competitors, including [R3](https://www.r3.com/), [Ethereum](https://ethereum.org/en/), and [Hyperledger](https://www.hyperledger.org/) – all who more revenue or more employees than NEM.  <br></br>
 
-## Results
+### Results
 
 The Fund offering is currently in the Pre-STO phase. The initial raise started on 1/8/2020 with a goal of raising $1,000,000 ($100 per token and a $25,000 minimum investment) by July 16, 2020. The current status is “Open”, and the Fund will launch on Symbol in late 2020.
 
@@ -75,7 +75,6 @@ Wave is a small closely-held investment firm. The backgrounds of its main stakeh
 If Wave is successful in sourcing investors for the initial and subsequent raises, they will have tapped into a market beyond which they could leapfrog themselves with future creative fund ideas. By doing so, they would be well-positioned to grow their total crypto market capitalization by double(or triple) digits for the next five to ten years. 
 
 If the Fund can weather the potential liquidity issues when the tokens are released from lock-up, it will represent an important milestone upon which they can build their next venture fund. One consideration would be to revisit their real estate investigations as smart contracts for mortgages become more prevalent.
-<br></br>
 <br></br>
 
 ### **Cautious optimism abounds with the launch of WKW20 !**<br></br>
