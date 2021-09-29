@@ -7,7 +7,6 @@ Sep 2020
 
 [Wave Financial LLC](https://www.wavegp.com/) (Wave) established the Wave Kentucky Whiskey 2020 Digital Asset Fund, LLC (Fund) to create a unique investment vehicle for their clients. Wave was established in Delaware in 2018, although it is currently registered and operating out of Los Angeles, California. The company employees five investment advisors and four support staff.
 <br></br>
-
 ### Primary Stakeholders
 
 [**David Siemer**](https://www.linkedin.com/in/davidsiemer/) is Wave’s Founder and Chief Executive Officer. Before starting the company, he co-founded and currently manages Wavemaker Genesis and Wavemaker Partners. Both are firms that invest in early stage crypto and enterprise technology. 
@@ -79,7 +78,6 @@ Wave seems to have done their due diligence in partnering with NEM, despite prov
 
 Wave is a small closely-held investment firm. The backgrounds of its main stakeholders suggest they have experienced financial success and the ability to selectively cultivate their investment choices and client-base. By opting to establish funds for their clients in cryptocurrency, they are part of an emerging group of companies investing in the blockchain domain. 
 <br></br>
-
 
 
 ## Conclusion
