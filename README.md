@@ -3,9 +3,9 @@
 ![alt text](th-4.png)
 
 ## Wave Financial partners with Wilderness Trail Distillery to launch a digital asset fund backed by bourbon.
-Sep 2020
+September 2020
 
-[Wave Financial LLC](https://www.wavegp.com/) (Wave) established the Wave Kentucky Whiskey 2020 Digital Asset Fund, LLC (Fund) to create a unique investment vehicle for their clients. Wave was established in Delaware in 2018, although it is currently registered and operating out of Los Angeles, California. The company employees five investment advisors and four support staff.
+[Wave Financial LLC](https://www.wavegp.com/) (Wave) established the Wave Kentucky Whiskey 2020 Digital Asset Fund, LLC (Fund) to create a unique investment vehicle for their clients. Wave was established in Delaware in 2018, although it is currently registered and operating out of Los Angeles, California. The company employs five investment advisors and four support staff.
 
 ### Primary Stakeholders
 
